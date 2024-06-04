@@ -47,14 +47,13 @@ Utilisez les composants de téléchargement de fichiers pour télécharger des i
 Consultez les résultats affichés à l'écran.
 
 ## Capture d'écran
-![alt text](https://github.com/meedastitou/angular-project/blob/main/images/angular-app.jpg)
+![ Capture 1:](https://github.com/meedastitou/angular-project/blob/main/images/angular-app.jpg)
+![Capture 2](https://github.com/meedastitou/angular-project/blob/main/images/architecture.jpg)
+![Capture 3](https://github.com/meedastitou/angular-project/blob/main/images/containers%20Dockers%20.jpg)
+![Capture 4](https://github.com/meedastitou/angular-project/blob/main/images/imge-classification.jpg)
+![Capture 5](https://github.com/meedastitou/angular-project/blob/main/images/nginex.jpg)
+![Capture 6](https://github.com/meedastitou/angular-project/blob/main/images/signature-classification.jpg)
+![Capture 7](https://github.com/meedastitou/angular-project/blob/main/images/Screenshot%202024-06-04%20115541.png)
+![Capture 8](https://github.com/meedastitou/angular-project/blob/main/images/Screenshot%202024-06-04%20115616.png)
 
- Capture 1: https://github.com/meedastitou/angular-project/blob/main/images/angular-app.jpg
- Capture 2: https://github.com/meedastitou/angular-project/blob/main/images/architecture.jpg
- Capture 3: https://github.com/meedastitou/angular-project/blob/main/images/containers%20Dockers%20.jpg
- Capture 4: https://github.com/meedastitou/angular-project/blob/main/images/imge-classification.jpg
- Capture 5: https://github.com/meedastitou/angular-project/blob/main/images/nginex.jpg
- Capture 6: https://github.com/meedastitou/angular-project/blob/main/images/signature-classification.jpg
- Capture 7: https://github.com/meedastitou/angular-project/blob/main/images/Screenshot%202024-06-04%20115541.png
- Capture 8: https://github.com/meedastitou/angular-project/blob/main/images/Screenshot%202024-06-04%20115616.png
-https://github.com/meedastitou/angular-project/blob/main/images/angular-app.jpg
+
