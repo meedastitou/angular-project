@@ -60,12 +60,11 @@ Consultez les résultats affichés à l'écran.
 ![Capture 4](https://github.com/meedastitou/angular-project/blob/main/images/imge-classification.jpg)
 ![Capture 5](https://github.com/meedastitou/angular-project/blob/main/images/nginex.jpg)
 ![Capture 6](https://github.com/meedastitou/angular-project/blob/main/images/signature-classification.jpg)
-![Capture 7](https://github.com/meedastitou/angular-project/blob/main/images/Screenshot%202024-06-04%20115541.png)
-![Capture 8](https://github.com/meedastitou/angular-project/blob/main/images/Screenshot%202024-06-04%20115616.png)
+
 
 
 ## video
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://github.com/meedastitou/angular-project/blob/main/images/containers%20Dockers%20.jpg))](https://github.com/meedastitou/angular-project/blob/main/video/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
+[![Watch the video](https://github.com/meedastitou/angular-project/blob/main/images/containers%20Dockers%20.jpg)](https://github.com/meedastitou/angular-project/blob/main/video/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
 
 
 
