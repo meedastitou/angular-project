@@ -3,8 +3,8 @@
 ## angular-project
 
 ## Réaiser par : 
-### Astitou Mohamed     Bousbibit Mohamed-Amine
-### EL HARTI Imane      BEN HAMMADI Sanae
+### Astitou Mohamed - Bousbibit Mohamed-Amine
+### EL HARTI Imane - BEN HAMMADI Sanae
 
 ## Encadré par : 
 ### Lotfi EL AACHAK
