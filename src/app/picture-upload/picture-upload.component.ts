@@ -28,7 +28,7 @@ export class PictureUploadComponent {
       fetch(uploadUrl, {
         method: 'POST',
         body: formData
-      }).then(response => response.json())
+      })
         .then(data => {
           // this.responseData = data; // Assign the response data to the property
           console.log(data); // Log the response data to the console
