@@ -55,4 +55,4 @@ Consultez les résultats affichés à l'écran.
  Capture 6: https://github.com/meedastitou/angular-project/blob/main/images/signature-classification.jpg
  Capture 7: https://github.com/meedastitou/angular-project/blob/main/images/Screenshot%202024-06-04%20115541.png
  Capture 8: https://github.com/meedastitou/angular-project/blob/main/images/Screenshot%202024-06-04%20115616.png
-
+https://github.com/meedastitou/angular-project/blob/main/images/angular-app.jpg
