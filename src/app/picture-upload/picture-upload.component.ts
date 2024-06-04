@@ -23,15 +23,15 @@ export class PictureUploadComponent {
       formData.append('picture', this.selectedFile);
 
       // Replace with your backend URL
-      const uploadUrl = 'http://balancer/signature';
+      const uploadUrl = 'http://localhost/image';
 
       fetch(uploadUrl, {
         method: 'POST',
         body: formData
       }).then(response => response.json())
         .then(data => {
-          this.responseData = data; // Assign the response data to the property
-          console.log("data"); // Log the response data to the console
+          // this.responseData = data; // Assign the response data to the property
+          console.log(data); // Log the response data to the console
         })
         .catch(error => console.error(error));
     }

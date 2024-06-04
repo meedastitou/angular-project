@@ -23,7 +23,7 @@ export class FileUploadComponent {
       formData.append('file', this.selectedFile);
 
       // Replace with your Flask backend URL
-      const uploadUrl = 'http://balancer/signature';
+      const uploadUrl = 'http://localhost/signature';
 
       fetch(uploadUrl, {
         method: 'POST',
