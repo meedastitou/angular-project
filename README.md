@@ -9,6 +9,13 @@
 ## Encadré par : 
 ### Lotfi EL AACHAK
 
+### Partie classification selon file
+https://github.com/meedastitou/malware_detiction_machineLearnin_project
+
+
+### Partie classification selon image
+https://github.com/meedastitou/detection-image-based
+
 
 ## Titre du Projet: Intégration MLOps pour la Détection de Malware
 
@@ -64,7 +71,7 @@ Consultez les résultats affichés à l'écran.
 
 
 ## video
-[![Watch the video](https://github.com/meedastitou/angular-project/blob/main/images/containers%20Dockers%20.jpg)](https://github.com/meedastitou/angular-project/blob/main/video/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
+[![Watch the video](https://github.com/meedastitou/angular-project/blob/main/images/containers%20Dockers%20.jpg)](https://www.youtube.com/watch?v=vrFgi3KaPkA)
 
 
 
