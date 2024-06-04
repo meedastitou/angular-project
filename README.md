@@ -1,7 +1,12 @@
 # Machine-learning-detection--malweres
+
 ## angular-project
 
-
+## Réaiser par : 
+### Astitou Mohamed
+### Bousbibit Mohamed-Amine
+### EL HARTI Imane
+### BEN HAMMADI Sanae
 
 ## Titre du Projet: Intégration MLOps pour la Détection de Malware
 
