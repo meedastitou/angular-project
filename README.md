@@ -70,7 +70,7 @@ Consultez les résultats affichés à l'écran.
 
 
 
-## video
+## Video d'explication
 [![Watch the video](https://github.com/meedastitou/angular-project/blob/main/images/containers%20Dockers%20.jpg)](https://www.youtube.com/watch?v=vrFgi3KaPkA)
 
 
