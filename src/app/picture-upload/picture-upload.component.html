@@ -1,0 +1,33 @@
+<div
+  style="
+    background-color: #ececec;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  "
+>
+<div id="result_signature">
+  {{ responseData | json }}
+</div>
+  <form (ngSubmit)="onSubmit()" #pictureForm="ngForm">
+    <div class="Neon Neon-theme-dragdropbox">
+
+      <div class="Neon-input-dragDrop">
+        <div class="Neon-input-inner">
+
+          <div class="Neon-input-text">
+            <h3>Drag&amp;Drop Picture here</h3>
+            <span style="display: inline-block; margin: 15px 0">or</span>
+          </div>
+          <input type="file" (change)="onFileSelected($event)" required>
+          <button type="submit" [disabled]="!selectedFile">Upload</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="result_signature">{{ responseData | json }}</div>
+  </form>
+</div>
